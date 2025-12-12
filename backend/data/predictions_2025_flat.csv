@@ -1,0 +1,453 @@
+raceId,driverRef,team,pred_pos,grid
+1,lando_norris,McLaren,1,1
+1,max_verstappen,Red Bull Racing,2,3
+1,oscar_piastri,McLaren,3,2
+1,george_russell,Mercedes,4,4
+1,charles_leclerc,Ferrari,5,7
+1,kimi_antonelli,Mercedes,6,16
+1,lewis_hamilton,Ferrari,7,8
+1,yuki_tsunoda,Racing Bulls,8,5
+1,alexander_albon,Williams,9,6
+1,pierre_gasly,Alpine,10,9
+1,fernando_alonso,Aston Martin,11,12
+1,isack_hadjar,Racing Bulls,12,11
+1,lance_stroll,Aston Martin,13,13
+1,jack_doohan,Alpine,14,14
+1,carlos_sainz,Williams,15,10
+1,liam_lawson,Red Bull Racing,16,18
+1,esteban_ocon,Haas F1 Team,17,19
+1,nico_hulkenberg,Kick Sauber,18,17
+1,gabriel_bortoleto,Kick Sauber,19,15
+2,lando_norris,McLaren,1,3
+2,oscar_piastri,McLaren,2,1
+2,max_verstappen,Red Bull Racing,3,4
+2,george_russell,Mercedes,4,2
+2,charles_leclerc,Ferrari,5,6
+2,lewis_hamilton,Ferrari,6,5
+2,kimi_antonelli,Mercedes,7,8
+2,isack_hadjar,Racing Bulls,8,7
+2,alexander_albon,Williams,9,10
+2,yuki_tsunoda,Racing Bulls,10,9
+2,nico_hulkenberg,Kick Sauber,11,12
+2,esteban_ocon,Haas F1 Team,12,11
+2,lance_stroll,Aston Martin,13,14
+2,fernando_alonso,Aston Martin,14,13
+2,carlos_sainz,Williams,15,15
+2,pierre_gasly,Alpine,16,16
+2,liam_lawson,Red Bull Racing,17,20
+2,oliver_bearman,Haas F1 Team,18,17
+2,jack_doohan,Alpine,19,18
+2,gabriel_bortoleto,Kick Sauber,20,19
+3,max_verstappen,Red Bull Racing,1,1
+3,lando_norris,McLaren,2,2
+3,oscar_piastri,McLaren,3,3
+3,charles_leclerc,Ferrari,4,4
+3,george_russell,Mercedes,5,5
+3,kimi_antonelli,Mercedes,6,6
+3,lewis_hamilton,Ferrari,7,8
+3,isack_hadjar,Racing Bulls,8,7
+3,alexander_albon,Williams,9,9
+3,oliver_bearman,Haas F1 Team,10,10
+3,pierre_gasly,Alpine,11,11
+3,yuki_tsunoda,Red Bull Racing,12,15
+3,esteban_ocon,Haas F1 Team,13,18
+3,fernando_alonso,Aston Martin,14,13
+3,liam_lawson,Racing Bulls,15,14
+3,nico_hulkenberg,Kick Sauber,16,16
+3,carlos_sainz,Williams,17,12
+3,lance_stroll,Aston Martin,18,20
+3,jack_doohan,Alpine,19,19
+3,gabriel_bortoleto,Kick Sauber,20,17
+4,oscar_piastri,McLaren,1,1
+4,george_russell,Mercedes,2,2
+4,charles_leclerc,Ferrari,3,3
+4,lando_norris,McLaren,4,6
+4,max_verstappen,Red Bull Racing,5,7
+4,kimi_antonelli,Mercedes,6,4
+4,lewis_hamilton,Ferrari,7,9
+4,pierre_gasly,Alpine,8,5
+4,yuki_tsunoda,Red Bull Racing,9,10
+4,carlos_sainz,Williams,10,8
+4,esteban_ocon,Haas F1 Team,11,14
+4,alexander_albon,Williams,12,15
+4,jack_doohan,Alpine,13,11
+4,isack_hadjar,Racing Bulls,14,12
+4,fernando_alonso,Aston Martin,15,13
+4,oliver_bearman,Haas F1 Team,16,20
+4,nico_hulkenberg,Kick Sauber,17,16
+4,lance_stroll,Aston Martin,18,19
+4,liam_lawson,Racing Bulls,19,17
+4,gabriel_bortoleto,Kick Sauber,20,18
+5,max_verstappen,Red Bull Racing,1,1
+5,oscar_piastri,McLaren,2,2
+5,george_russell,Mercedes,3,3
+5,charles_leclerc,Ferrari,4,4
+5,lando_norris,McLaren,5,10
+5,kimi_antonelli,Mercedes,6,5
+5,lewis_hamilton,Ferrari,7,7
+5,yuki_tsunoda,Red Bull Racing,8,8
+5,carlos_sainz,Williams,9,6
+5,pierre_gasly,Alpine,10,9
+5,alexander_albon,Williams,11,11
+5,liam_lawson,Racing Bulls,12,12
+5,esteban_ocon,Haas F1 Team,13,19
+5,oliver_bearman,Haas F1 Team,14,15
+5,fernando_alonso,Aston Martin,15,13
+5,isack_hadjar,Racing Bulls,16,14
+5,lance_stroll,Aston Martin,17,16
+5,jack_doohan,Alpine,18,17
+5,nico_hulkenberg,Kick Sauber,19,18
+5,gabriel_bortoleto,Kick Sauber,20,20
+6,max_verstappen,Red Bull Racing,1,1
+6,lando_norris,McLaren,2,2
+6,oscar_piastri,McLaren,3,4
+6,george_russell,Mercedes,4,5
+6,kimi_antonelli,Mercedes,5,3
+6,charles_leclerc,Ferrari,6,8
+6,lewis_hamilton,Ferrari,7,12
+6,yuki_tsunoda,Red Bull Racing,8,10
+6,alexander_albon,Williams,9,7
+6,carlos_sainz,Williams,10,6
+6,esteban_ocon,Haas F1 Team,11,9
+6,isack_hadjar,Racing Bulls,12,11
+6,jack_doohan,Alpine,13,14
+6,pierre_gasly,Alpine,14,18
+6,liam_lawson,Racing Bulls,15,15
+6,gabriel_bortoleto,Kick Sauber,16,13
+6,fernando_alonso,Aston Martin,17,17
+6,lance_stroll,Aston Martin,18,19
+6,nico_hulkenberg,Kick Sauber,19,16
+6,oliver_bearman,Haas F1 Team,20,20
+7,max_verstappen,Red Bull Racing,1,2
+7,oscar_piastri,McLaren,2,1
+7,lando_norris,McLaren,3,4
+7,george_russell,Mercedes,4,3
+7,charles_leclerc,Ferrari,5,11
+7,fernando_alonso,Aston Martin,6,5
+7,kimi_antonelli,Mercedes,7,13
+7,lewis_hamilton,Ferrari,8,12
+7,pierre_gasly,Alpine,9,10
+7,lance_stroll,Aston Martin,10,8
+7,carlos_sainz,Williams,11,6
+7,alexander_albon,Williams,12,7
+7,isack_hadjar,Racing Bulls,13,9
+7,esteban_ocon,Haas F1 Team,14,18
+7,franco_colapinto,Alpine,15,15
+7,nico_hulkenberg,Kick Sauber,16,17
+7,liam_lawson,Racing Bulls,17,16
+7,oliver_bearman,Haas F1 Team,18,19
+7,gabriel_bortoleto,Kick Sauber,19,14
+8,lando_norris,McLaren,1,1
+8,charles_leclerc,Ferrari,2,2
+8,oscar_piastri,McLaren,3,3
+8,lewis_hamilton,Ferrari,4,4
+8,max_verstappen,Red Bull Racing,5,5
+8,george_russell,Mercedes,6,14
+8,kimi_antonelli,Mercedes,7,15
+8,isack_hadjar,Racing Bulls,8,6
+8,esteban_ocon,Haas F1 Team,9,8
+8,fernando_alonso,Aston Martin,10,7
+8,alexander_albon,Williams,11,10
+8,liam_lawson,Racing Bulls,12,9
+8,yuki_tsunoda,Red Bull Racing,13,12
+8,carlos_sainz,Williams,14,11
+8,nico_hulkenberg,Kick Sauber,15,13
+8,pierre_gasly,Alpine,16,18
+8,oliver_bearman,Haas F1 Team,17,17
+8,lance_stroll,Aston Martin,18,19
+8,franco_colapinto,Alpine,19,20
+8,gabriel_bortoleto,Kick Sauber,20,16
+9,oscar_piastri,McLaren,1,1
+9,lando_norris,McLaren,2,2
+9,max_verstappen,Red Bull Racing,3,3
+9,george_russell,Mercedes,4,4
+9,lewis_hamilton,Ferrari,5,5
+9,charles_leclerc,Ferrari,6,7
+9,kimi_antonelli,Mercedes,7,6
+9,pierre_gasly,Alpine,8,8
+9,alexander_albon,Williams,9,11
+9,fernando_alonso,Aston Martin,10,10
+9,isack_hadjar,Racing Bulls,11,9
+9,yuki_tsunoda,Red Bull Racing,12,20
+9,esteban_ocon,Haas F1 Team,13,17
+9,liam_lawson,Racing Bulls,14,13
+9,lance_stroll,Aston Martin,15,14
+9,carlos_sainz,Williams,16,18
+9,nico_hulkenberg,Kick Sauber,17,16
+9,gabriel_bortoleto,Kick Sauber,18,12
+9,oliver_bearman,Haas F1 Team,19,15
+9,franco_colapinto,Alpine,20,19
+10,george_russell,Mercedes,1,1
+10,max_verstappen,Red Bull Racing,2,2
+10,oscar_piastri,McLaren,3,3
+10,lewis_hamilton,Ferrari,4,5
+10,lando_norris,McLaren,5,7
+10,charles_leclerc,Ferrari,6,8
+10,kimi_antonelli,Mercedes,7,4
+10,fernando_alonso,Aston Martin,8,6
+10,alexander_albon,Williams,9,10
+10,yuki_tsunoda,Red Bull Racing,10,11
+10,isack_hadjar,Racing Bulls,11,9
+10,nico_hulkenberg,Kick Sauber,12,13
+10,esteban_ocon,Haas F1 Team,13,15
+10,franco_colapinto,Alpine,14,12
+10,carlos_sainz,Williams,15,17
+10,lance_stroll,Aston Martin,16,18
+10,oliver_bearman,Haas F1 Team,17,14
+10,pierre_gasly,Alpine,18,20
+10,liam_lawson,Racing Bulls,19,19
+10,gabriel_bortoleto,Kick Sauber,20,16
+11,lando_norris,McLaren,1,1
+11,charles_leclerc,Ferrari,2,2
+11,oscar_piastri,McLaren,3,3
+11,lewis_hamilton,Ferrari,4,4
+11,george_russell,Mercedes,5,5
+11,max_verstappen,Red Bull Racing,6,7
+11,kimi_antonelli,Mercedes,7,9
+11,liam_lawson,Racing Bulls,8,6
+11,pierre_gasly,Alpine,9,10
+11,gabriel_bortoleto,Kick Sauber,10,8
+11,isack_hadjar,Racing Bulls,11,13
+11,fernando_alonso,Aston Martin,12,11
+11,nico_hulkenberg,Kick Sauber,13,20
+11,alexander_albon,Williams,14,12
+11,esteban_ocon,Haas F1 Team,15,17
+11,yuki_tsunoda,Red Bull Racing,16,18
+11,franco_colapinto,Alpine,17,14
+11,oliver_bearman,Haas F1 Team,18,15
+11,lance_stroll,Aston Martin,19,16
+11,carlos_sainz,Williams,20,19
+12,max_verstappen,Red Bull Racing,1,1
+12,lando_norris,McLaren,2,3
+12,oscar_piastri,McLaren,3,2
+12,george_russell,Mercedes,4,4
+12,charles_leclerc,Ferrari,5,6
+12,lewis_hamilton,Ferrari,6,5
+12,kimi_antonelli,Mercedes,7,7
+12,oliver_bearman,Haas F1 Team,8,8
+12,pierre_gasly,Alpine,9,10
+12,fernando_alonso,Aston Martin,10,9
+12,yuki_tsunoda,Red Bull Racing,11,12
+12,esteban_ocon,Haas F1 Team,12,15
+12,isack_hadjar,Racing Bulls,13,13
+12,alexander_albon,Williams,14,14
+12,carlos_sainz,Williams,15,11
+12,nico_hulkenberg,Kick Sauber,16,19
+12,liam_lawson,Racing Bulls,17,16
+12,lance_stroll,Aston Martin,18,18
+12,gabriel_bortoleto,Kick Sauber,19,17
+12,franco_colapinto,Alpine,20,20
+13,lando_norris,McLaren,1,1
+13,oscar_piastri,McLaren,2,2
+13,max_verstappen,Red Bull Racing,3,4
+13,charles_leclerc,Ferrari,4,3
+13,george_russell,Mercedes,5,6
+13,kimi_antonelli,Mercedes,6,18
+13,alexander_albon,Williams,7,5
+13,lewis_hamilton,Ferrari,8,16
+13,yuki_tsunoda,Red Bull Racing,9,7
+13,isack_hadjar,Racing Bulls,10,8
+13,esteban_ocon,Haas F1 Team,11,11
+13,liam_lawson,Racing Bulls,12,9
+13,gabriel_bortoleto,Kick Sauber,13,10
+13,pierre_gasly,Alpine,14,13
+13,nico_hulkenberg,Kick Sauber,15,14
+13,oliver_bearman,Haas F1 Team,16,12
+13,carlos_sainz,Williams,17,15
+13,lance_stroll,Aston Martin,18,20
+13,fernando_alonso,Aston Martin,19,19
+13,franco_colapinto,Alpine,20,17
+14,lando_norris,McLaren,1,3
+14,oscar_piastri,McLaren,2,2
+14,charles_leclerc,Ferrari,3,1
+14,george_russell,Mercedes,4,4
+14,max_verstappen,Red Bull Racing,5,8
+14,fernando_alonso,Aston Martin,6,5
+14,lance_stroll,Aston Martin,7,6
+14,lewis_hamilton,Ferrari,8,12
+14,kimi_antonelli,Mercedes,9,15
+14,gabriel_bortoleto,Kick Sauber,10,7
+14,isack_hadjar,Racing Bulls,11,10
+14,liam_lawson,Racing Bulls,12,9
+14,nico_hulkenberg,Kick Sauber,13,19
+14,oliver_bearman,Haas F1 Team,14,11
+14,alexander_albon,Williams,15,20
+14,yuki_tsunoda,Red Bull Racing,16,16
+14,pierre_gasly,Alpine,17,17
+14,esteban_ocon,Haas F1 Team,18,18
+14,carlos_sainz,Williams,19,13
+14,franco_colapinto,Alpine,20,14
+15,lando_norris,McLaren,1,2
+15,oscar_piastri,McLaren,2,1
+15,max_verstappen,Red Bull Racing,3,3
+15,charles_leclerc,Ferrari,4,6
+15,george_russell,Mercedes,5,5
+15,lewis_hamilton,Ferrari,6,7
+15,isack_hadjar,Racing Bulls,7,4
+15,kimi_antonelli,Mercedes,8,11
+15,fernando_alonso,Aston Martin,9,10
+15,alexander_albon,Williams,10,15
+15,liam_lawson,Racing Bulls,11,8
+15,pierre_gasly,Alpine,12,14
+15,carlos_sainz,Williams,13,9
+15,yuki_tsunoda,Red Bull Racing,14,12
+15,gabriel_bortoleto,Kick Sauber,15,13
+15,nico_hulkenberg,Kick Sauber,16,17
+15,esteban_ocon,Haas F1 Team,17,18
+15,oliver_bearman,Haas F1 Team,18,19
+15,franco_colapinto,Alpine,19,16
+16,max_verstappen,Red Bull Racing,1,1
+16,lando_norris,McLaren,2,2
+16,oscar_piastri,McLaren,3,3
+16,charles_leclerc,Ferrari,4,4
+16,lewis_hamilton,Ferrari,5,5
+16,george_russell,Mercedes,6,6
+16,kimi_antonelli,Mercedes,7,7
+16,yuki_tsunoda,Red Bull Racing,8,10
+16,fernando_alonso,Aston Martin,9,9
+16,oliver_bearman,Haas F1 Team,10,11
+16,alexander_albon,Williams,11,14
+16,nico_hulkenberg,Kick Sauber,12,12
+16,gabriel_bortoleto,Kick Sauber,13,8
+16,esteban_ocon,Haas F1 Team,14,15
+16,lance_stroll,Aston Martin,15,17
+16,isack_hadjar,Racing Bulls,16,16
+16,carlos_sainz,Williams,17,13
+16,liam_lawson,Racing Bulls,18,20
+16,franco_colapinto,Alpine,19,18
+16,pierre_gasly,Alpine,20,19
+17,max_verstappen,Red Bull Racing,1,1
+17,george_russell,Mercedes,2,5
+17,lando_norris,McLaren,3,7
+17,charles_leclerc,Ferrari,4,10
+17,oscar_piastri,McLaren,5,9
+17,kimi_antonelli,Mercedes,6,4
+17,yuki_tsunoda,Red Bull Racing,7,6
+17,liam_lawson,Racing Bulls,8,3
+17,lewis_hamilton,Ferrari,9,12
+17,carlos_sainz,Williams,10,2
+17,isack_hadjar,Racing Bulls,11,8
+17,lance_stroll,Aston Martin,12,14
+17,fernando_alonso,Aston Martin,13,11
+17,oliver_bearman,Haas F1 Team,14,15
+17,alexander_albon,Williams,15,19
+17,gabriel_bortoleto,Kick Sauber,16,13
+17,pierre_gasly,Alpine,17,18
+17,nico_hulkenberg,Kick Sauber,18,17
+17,franco_colapinto,Alpine,19,16
+18,max_verstappen,Red Bull Racing,1,2
+18,george_russell,Mercedes,2,1
+18,oscar_piastri,McLaren,3,3
+18,lando_norris,McLaren,4,5
+18,charles_leclerc,Ferrari,5,7
+18,kimi_antonelli,Mercedes,6,4
+18,lewis_hamilton,Ferrari,7,6
+18,oliver_bearman,Haas F1 Team,8,9
+18,isack_hadjar,Racing Bulls,9,8
+18,yuki_tsunoda,Red Bull Racing,10,13
+18,fernando_alonso,Aston Martin,11,10
+18,nico_hulkenberg,Kick Sauber,12,11
+18,liam_lawson,Racing Bulls,13,12
+18,esteban_ocon,Haas F1 Team,14,17
+18,lance_stroll,Aston Martin,15,15
+18,pierre_gasly,Alpine,16,18
+18,gabriel_bortoleto,Kick Sauber,17,14
+18,franco_colapinto,Alpine,18,16
+19,max_verstappen,Red Bull Racing,1,1
+19,lando_norris,McLaren,2,2
+19,charles_leclerc,Ferrari,3,3
+19,george_russell,Mercedes,4,4
+19,lewis_hamilton,Ferrari,5,5
+19,oscar_piastri,McLaren,6,6
+19,kimi_antonelli,Mercedes,7,7
+19,oliver_bearman,Haas F1 Team,8,8
+19,yuki_tsunoda,Red Bull Racing,9,13
+19,fernando_alonso,Aston Martin,10,10
+19,carlos_sainz,Williams,11,9
+19,nico_hulkenberg,Kick Sauber,12,11
+19,esteban_ocon,Haas F1 Team,13,17
+19,pierre_gasly,Alpine,14,14
+19,liam_lawson,Racing Bulls,15,12
+19,gabriel_bortoleto,Kick Sauber,16,16
+19,alexander_albon,Williams,17,19
+19,lance_stroll,Aston Martin,18,18
+19,franco_colapinto,Alpine,19,15
+20,lando_norris,McLaren,1,1
+20,charles_leclerc,Ferrari,2,2
+20,lewis_hamilton,Ferrari,3,3
+20,max_verstappen,Red Bull Racing,4,5
+20,george_russell,Mercedes,5,4
+20,kimi_antonelli,Mercedes,6,6
+20,oscar_piastri,McLaren,7,8
+20,yuki_tsunoda,Red Bull Racing,8,11
+20,carlos_sainz,Williams,9,7
+20,oliver_bearman,Haas F1 Team,10,10
+20,isack_hadjar,Racing Bulls,11,9
+20,esteban_ocon,Haas F1 Team,12,12
+20,liam_lawson,Racing Bulls,13,15
+20,nico_hulkenberg,Kick Sauber,14,13
+20,alexander_albon,Williams,15,17
+20,pierre_gasly,Alpine,16,18
+20,fernando_alonso,Aston Martin,17,14
+20,lance_stroll,Aston Martin,18,19
+20,gabriel_bortoleto,Kick Sauber,19,16
+20,franco_colapinto,Alpine,20,20
+21,lando_norris,McLaren,1,1
+21,charles_leclerc,Ferrari,2,3
+21,oscar_piastri,McLaren,3,4
+21,kimi_antonelli,Mercedes,4,2
+21,george_russell,Mercedes,5,6
+21,max_verstappen,Red Bull Racing,6,16
+21,lewis_hamilton,Ferrari,7,13
+21,isack_hadjar,Racing Bulls,8,5
+21,pierre_gasly,Alpine,9,9
+21,oliver_bearman,Haas F1 Team,10,8
+21,liam_lawson,Racing Bulls,11,7
+21,fernando_alonso,Aston Martin,12,11
+21,lance_stroll,Aston Martin,13,14
+21,nico_hulkenberg,Kick Sauber,14,10
+21,alexander_albon,Williams,15,12
+21,yuki_tsunoda,Red Bull Racing,16,19
+21,esteban_ocon,Haas F1 Team,17,17
+21,carlos_sainz,Williams,18,15
+21,franco_colapinto,Alpine,19,18
+22,lando_norris,McLaren,1,1
+22,max_verstappen,Red Bull Racing,2,2
+22,oscar_piastri,McLaren,3,5
+22,george_russell,Mercedes,4,4
+22,charles_leclerc,Ferrari,5,9
+22,carlos_sainz,Williams,6,3
+22,kimi_antonelli,Mercedes,7,17
+22,liam_lawson,Racing Bulls,8,6
+22,lewis_hamilton,Ferrari,9,20
+22,nico_hulkenberg,Kick Sauber,10,11
+22,pierre_gasly,Alpine,11,10
+22,fernando_alonso,Aston Martin,12,7
+22,isack_hadjar,Racing Bulls,13,8
+22,oliver_bearman,Haas F1 Team,14,14
+22,yuki_tsunoda,Red Bull Racing,15,19
+22,esteban_ocon,Haas F1 Team,16,13
+22,alexander_albon,Williams,17,16
+22,lance_stroll,Aston Martin,18,12
+22,franco_colapinto,Alpine,19,15
+22,gabriel_bortoleto,Kick Sauber,20,18
+23,oscar_piastri,McLaren,1,1
+23,lando_norris,McLaren,2,2
+23,max_verstappen,Red Bull Racing,3,3
+23,george_russell,Mercedes,4,4
+23,charles_leclerc,Ferrari,5,10
+23,kimi_antonelli,Mercedes,6,5
+23,lewis_hamilton,Ferrari,7,18
+23,isack_hadjar,Racing Bulls,8,6
+23,pierre_gasly,Alpine,9,9
+23,fernando_alonso,Aston Martin,10,8
+23,nico_hulkenberg,Kick Sauber,11,11
+23,esteban_ocon,Haas F1 Team,12,17
+23,oliver_bearman,Haas F1 Team,13,13
+23,carlos_sainz,Williams,14,7
+23,liam_lawson,Racing Bulls,15,12
+23,alexander_albon,Williams,16,15
+23,yuki_tsunoda,Red Bull Racing,17,16
+23,gabriel_bortoleto,Kick Sauber,18,14
+23,lance_stroll,Aston Martin,19,19
+23,franco_colapinto,Alpine,20,20
